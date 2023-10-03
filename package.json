@@ -48,7 +48,7 @@
     "node-fetch": "^2.1.2",
     "node-watch": "^0.5.8",
     "package-json-versionify": "^1.0.1",
-    "postcss": "^6.0.22",
+    "postcss": "^8.4.31",
     "pouchdb": "^6.4.3",
     "pouchdb-adapter-http": "^6.4.3",
     "pouchdb-adapter-idb": "^6.4.3",
